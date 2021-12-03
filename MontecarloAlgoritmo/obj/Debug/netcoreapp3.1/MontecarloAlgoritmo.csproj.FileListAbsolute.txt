@@ -1,0 +1,14 @@
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\bin\Debug\netcoreapp3.1\MontecarloAlgoritmo.exe
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\bin\Debug\netcoreapp3.1\MontecarloAlgoritmo.deps.json
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\bin\Debug\netcoreapp3.1\MontecarloAlgoritmo.runtimeconfig.json
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\bin\Debug\netcoreapp3.1\MontecarloAlgoritmo.runtimeconfig.dev.json
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\bin\Debug\netcoreapp3.1\MontecarloAlgoritmo.dll
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\bin\Debug\netcoreapp3.1\MontecarloAlgoritmo.pdb
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.csproj.AssemblyReference.cache
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.AssemblyInfoInputs.cache
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.AssemblyInfo.cs
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.csproj.CoreCompileInputs.cache
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.dll
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.pdb
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmo\obj\Debug\netcoreapp3.1\MontecarloAlgoritmo.genruntimeconfig.cache
