@@ -1,0 +1,10 @@
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\bin\Debug\MontecarloAlgoritmoVisual.exe.config
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\bin\Debug\MontecarloAlgoritmoVisual.exe
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\bin\Debug\MontecarloAlgoritmoVisual.pdb
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.csproj.AssemblyReference.cache
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.Properties.Resources.resources
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.csproj.GenerateResource.cache
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.csproj.CoreCompileInputs.cache
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.exe
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.pdb
+D:\OneDrive - UFV\3º Ingeniería Informática\CoCo\PR Final\AlgoritmoMontecarlo\MontecarloAlgoritmoVisual\obj\Debug\MontecarloAlgoritmoVisual.FormPrincipal.resources
