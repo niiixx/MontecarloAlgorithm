@@ -8,7 +8,7 @@ namespace MontecarloAlgoritmo
 
         public static void Main(string[] args)
         {
-            double tam = 0;
+            double tam = 0; // Tamaño de la muestra. Incremental
 
             for (int i = 1; i <= 8; i++) // Cuanto más grande sea el círculo (más se incremente i), más preciso será pi
             {
