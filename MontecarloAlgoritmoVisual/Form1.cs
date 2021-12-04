@@ -14,7 +14,7 @@ namespace MontecarloAlgoritmoVisual
 {
     public partial class FormPrincipal : Form
     {
-        public static double ballsGlobal = 10000;
+        public static double ballsGlobal = 1000;
 
         public FormPrincipal()
         {
@@ -26,11 +26,22 @@ namespace MontecarloAlgoritmoVisual
             Graphics g = CreateGraphics();
             g.DrawRectangle(new Pen(Color.Black, 3), 50, 50, 300, 300);
             g.DrawEllipse(new Pen(Color.Red, 3), 50, 50, 300, 300);
+            button2.Show();
             button1.Enabled = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (!textBox1.Equals(""))
+            {
+                ballsGlobal = Int32.Parse(textBox1.Text);
+            }
+
+            button1.Hide();
+            button2.Hide();
+            textBox1.Hide();
+            label7.Hide();
+            label9.Text = ballsGlobal.ToString();
             double dotsin = 0; // dots in 
             int dotsout = 0; // dots out
             double pi = 0; // PI estimated
