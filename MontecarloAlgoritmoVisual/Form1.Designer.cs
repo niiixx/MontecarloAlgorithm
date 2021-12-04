@@ -176,7 +176,7 @@ namespace MontecarloAlgoritmoVisual
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Montecarlo Algorithm";
             this.ResumeLayout(false);
             this.PerformLayout();
 

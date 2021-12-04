@@ -23,7 +23,7 @@ namespace MontecarloAlgoritmoVisual
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Graphics g = CreateGraphics();
+            Graphics g = CreateGraphics(); // Create circle
             g.DrawRectangle(new Pen(Color.Black, 3), 50, 50, 300, 300);
             g.DrawEllipse(new Pen(Color.Red, 3), 50, 50, 300, 300);
             button2.Show();
@@ -48,13 +48,13 @@ namespace MontecarloAlgoritmoVisual
             int x = 0; // Coordinate x
             int y = 0; // Coordinate y
 
-            Random r = new Random();
-            Pen p1;
+            Random r = new Random(); 
+            Pen p1; // Points
             Graphics g2 = CreateGraphics();
 
             for(int i = 0; i < ballsGlobal; i++)
             {
-                // Generamos un punto aleatorio en (x,y)
+                // Random dot (x,y) between boundaries
                 x = r.Next(50, 351);
                 y = r.Next(50, 351);
 
@@ -68,7 +68,7 @@ namespace MontecarloAlgoritmoVisual
                     dotsin++;
                 }
                 else
-                {
+                { // Dot out
                     p1 = new Pen(Color.Orange);
                     dotsout++;
                 }
